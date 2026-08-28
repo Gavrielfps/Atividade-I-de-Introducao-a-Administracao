@@ -1,1 +1,3 @@
-# Atividade-I-de-Introdu-o-a-Administra-o
+# Atividade-I-de-Introducao-a-Administracao
+
+Atividades básica de exercicios
